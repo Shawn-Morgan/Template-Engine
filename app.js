@@ -101,10 +101,6 @@ function promptIntern() {
 }
 
 
-// Function call generate HTML
-// For loop with If for roles 
-// Then input team members function
-
 
 // Turns user prompt into answers to pull data
 // function generateHTML() {
