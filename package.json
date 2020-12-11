@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamierachael/Template-Engine.git"
+    "url": "git+https://github.com/Shawn-Morgan/Template-Engine"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamierachael/Template-Engine/issues"
+    "url": "https://github.com/Shawn-Morgan/Template-Engine"
   },
-  "homepage": "https://github.com/jamierachael/Template-Engine#readme",
+  "homepage": "https://github.com/Shawn-Morgan/Template-Engine#readme",
   "dependencies": {
     "axios": "^0.21.0",
     "inquirer": "^7.3.3"
